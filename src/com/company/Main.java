@@ -16,7 +16,7 @@ public class Main {
         sun.radius="457566786578";
 
         FeatureStars star= new FeatureStars();
-        star.color=white;
+        star.color="white";
         star. radius="546576887897";
         star.size="56789787";
 
