@@ -15,5 +15,10 @@ public class Main {
         sun.heat="168763188893";
         sun.radius="457566786578";
 
+        FeatureStars star= new FeatureStars();
+        star.color="white";
+        star. radius="546576887897";
+        star.size="56789787";
+
     }
 }
