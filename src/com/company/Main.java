@@ -8,8 +8,6 @@ public class Main {
         factorX.planet="2";
         factorX.star="10000";
 
-
-
         FeatureSun sun= new FeatureSun();
         sun.color="yellow";
         sun.heat="168763188893";
