@@ -20,5 +20,10 @@ public class Main {
         star. radius="546576887897";
         star.size="56789787";
 
+        Planet2Feature planet= new Planet2Feature();
+        planet.name="Pluto";
+        planet.color="white";
+        planet.size="small";
+
     }
 }
