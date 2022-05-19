@@ -20,10 +20,18 @@ public class Main {
         star. radius="546576887897";
         star.size="56789787";
 
+
         Planet2Feature planet= new Planet2Feature();
         planet.name="Pluto";
         planet.color="white";
         planet.size="small";
+
+        //Adding feature for Planet1
+        Planet1Features GulK=new Planet1Features();
+        GulK.color="blue";
+        GulK.size="3848325828km";
+        GulK.name="preacheX";
+
 
     }
 }
